@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neue Welt</title>
+    <description>This is Neue Welt, a graphic novel</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 22 Oct 2020 14:52:56 +0700</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2020 14:52:56 +0700</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Getting the first section together</title>
+        <description>&lt;p&gt;I’ve been aiming at the point where the first section of the Neue Welt book is ready enough to show to people. And, now it is! after more than two months of 10-14 hour days.&lt;/p&gt;
+
+&lt;p&gt;That’s not necessarily the moment when it’s complete, finished, tweaked and fully detailed. I am really interested in the process of creating the book, so I also want to expose it to the world in incomplete form, and then let interested people track the process of polishing.&lt;/p&gt;
+
+&lt;p&gt;At the same time, I don’t think the first things you see posted should be the original, messy, almost meaningless sketches; even though those are the real genesis of the section that’s online. There’s a balance to be struck.&lt;/p&gt;
+
+&lt;p&gt;So, that’s where it is, as of this post. It should be pretty easy to read it, and get what’s going on, about as well as the finished version. But there are a lot of things omitted that will be added in the immediate future. And if you decide to follow what I’m doing, you’ll see those as they happen.&lt;/p&gt;
+
+&lt;p&gt;Those include things that are quite obvious: faces, for one. And proper clothing that matches the time. But also lighting, and shade and shadow, and sometimes othe similar things that convey time, season, weather and so on.&lt;/p&gt;
+
+&lt;p&gt;I actually think that having these things omitted and seeing them add to the final product is more engaging. How the book gets presented so it can be read is still not quite determined. You can do it here, but the site is also for the process.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 21 Oct 2020 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/introducing-neue-welt/</link>
+        <guid isPermaLink="true">http://localhost:4000/introducing-neue-welt/</guid>
+        
+        <category>Process</category>
+        
+        <category>Preparation</category>
+        
+        
+        <category>Launch</category>
+        
+        <category>Spreads</category>
+        
+      </item>
+    
+      <item>
+        <title>Panel Anatomy: Banishment (2)</title>
+        <description>&lt;p&gt;So, if you missed the first part, &lt;a href=&quot;../panel-anatomy.1/&quot;&gt;that’s here&lt;/a&gt;. For those of you who read it, we’re continuing this dissection of how one figure got drawn in one of the panels in Neue Welt.&lt;/p&gt;
+
+&lt;p&gt;Our figure, having been refined in a separate file, is now located in the panel, which means I now have to build the relationship she has to her surroundings, and the other people in them. A lot of that is established through body language, which is part of why we reintegrated her now. As I closed the last post off by saying, we need to ensure that any drift from the original rough drawing is not a problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-21.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-22.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The first thing is, the poor girl is standing there naked. So we have to clothe her. In the image above on the left, in a new layer, and using a standout colour to improve visibility, I’ve drawn the outline of the dress that she’s wearing, as well as the shoes that she’ll appear in.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-med&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/catfight.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Drawing my figures nude is part of a process of ensuring that, even when there are complex relationships between them, the figures are anatomically properly proportioned, that limbs are in positions and shown with the correct foreshortening etc. In a frame like the fight Karolina has with her tormentor, this was a really important thing, and I hope to do a breakdown of that or a similar panel later.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-23.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-24.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The process here should look familiar: adding a layer with opaque fill below the linework, in this case the lines of the dress. Having done that, I’m setting the opacity of that layer of fill to a translucent value.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-25.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-26.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;This stage is subtle: The dress goes both &lt;em&gt;in front&lt;/em&gt; of Karolina, and where we see it between her legs, from our low angle on the platform, &lt;em&gt;behind her&lt;/em&gt;. So the dress fill, having already been cut out, is duplicated, and the new copy put behind her.&lt;/p&gt;
+
+&lt;p&gt;Now, I can trim away the front layer to match the line of her hem in the front. Because it’s translucent, it’s easier to see what I’m doing.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-27.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Returning both layers to full opacity, the dress now works both behind her in front at the legs. But it now completely covers her arms. I also needed to erase the front hemline where it crosses her legs. Keeping the colour fill and linework separate makes a lot of this kind of prioritizing easier.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cl&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-28.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;But work needs to be done to deal with those arms. That starts by hiding the dress, and duplicating the entire figure of Karolina. At this point, the linework and the fill have been merged into a single layer. This made some things easier when moving her figure in front of other layers. I’ve hidden the original figure, and now I’ve used the eraser tool to cut away the are of the duplicate figure that has the arms – the thing goes in front of the dress – away.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cl&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-29.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-30.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The extraneous parts are deleted, and now I lock all the parts of the remainder, which consists of the merged together linework and fill colour. Next, I &lt;em&gt;unlock&lt;/em&gt; the fill, so I can use the eraser on it, and leave the linework intact. It’s the fill colour that will knock out the dress when we put this new layer in front of everything, so this is the key step.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cl&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-31.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-33.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Once the colour is trimmed to the profile of the part of the arms that will be in front of the dress, I can unlock and delete the linework that is outside the fill area. I turn all the layers on, and ensure that the cutaway arms are in the front, and things look good again.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cl&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-34.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-35.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;A similar process to the dress, but without the need for overlayering happens with her shoes.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cl&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-36.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-37.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;And that’s it! A single figure, in a single panel is now complete. Except, of course for all the other things that will have to happen: adding hair, correcting colour, adjusting clothing, adding shade and tone… When it’s broken down into steps like this, it seems (even to me) exhausting! But the average time per panel, up to this point is about a day of work. So given all the other things – initial concepts, roughs, composition, research into things like what railway carriages looked like, or typical railway stations in Germany in 1930, the actual time for this process might be an hour. Which is not that bad.&lt;/p&gt;
+
+&lt;p&gt;The conductor/guard, and Karolina’s guardians who also appear in the scene did require this treatment too. But because they don’t appear in many panels, and they’re somewhat obscured by the other details, less time goes in to them in a panel like this.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Oct 2020 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/panel-anatomy.2/</link>
+        <guid isPermaLink="true">http://localhost:4000/panel-anatomy.2/</guid>
+        
+        <category>Process</category>
+        
+        <category>Panels</category>
+        
+        
+        <category>Launch</category>
+        
+        <category>Panels</category>
+        
+        <category>Details</category>
+        
+      </item>
+    
+      <item>
+        <title>Panel Anatomy: Banishment (1)</title>
+        <description>&lt;p&gt;Since we’re just getting this site underway, let’s try out something. It’s about process – just revealing a bit about how the pages and the panels get made. I’m provisionally making this the anatomy series, and tagging it that way.&lt;/p&gt;
+
+&lt;p&gt;On page 8, titled “Banishment”, Karolina is, yes, banished to the little town of Magdasbruck. This required a bunch of attempts to get it to work, which meant lots of redrawing. This post is about how a single figure got drawn. The image at the top of this page is that sequence, in finished form.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-1.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m focusing on the second panel, with Karolina pretty pissed off a having arrived in Magdasbruck, after her life in Berlin. I’m going to focus on her figure in that panel here, so anyone following along at home can get a sense of how things get drawn.&lt;/p&gt;
+
+&lt;p&gt;At left is the original rough of that figure. I’ve already isolated it from the rest of the scene, in its own layer in Concepts on the iPad – my primary tool in drawing this project.&lt;/p&gt;
+
+&lt;p&gt;The colour fills are what I use to define the general outline of the figure; when I have a bunch of different figures, different coloured fills make distinguishing them from each other easier when the lines get really messy.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-2.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-3.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ll typically bring that layer into a new drawing, also in Concepts. Here’s what that looks like. It’s in its own layer, with the opacity turned down, and another layer on top of that, where I’ll start to refine the lines.&lt;/p&gt;
+
+&lt;p&gt;That’s what’s happening in the next image, where an initial overlaid drawing attempts to bring out the outline of the figure with more feeling and precision.&lt;/p&gt;
+
+&lt;p&gt;My method is incremental. I don’t aim for perfect lines the first pass through. Of course, I have to work at getting figures where I want them, so it’s not like I have a choice. But I also find that when you redraw and redraw, ideas and possibilities are more likely to emerge that, in the end, improve the product over what you might have had in mind to begin with.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cl&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-4.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-5.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;As this process goes forward, and the drawing starts to converge on what I want, I’ll delete the reference layer I worked off of, reduce the opacity on the newly drawn layer, create a new layer on top of that, and repeat. Sometimes this happens twice or three times. Sometimes it’s more…&lt;/p&gt;
+
+&lt;p&gt;By now, the lines are starting to be quite clean, and you can refine things like the relative weight of the limbs and torso, size of different features. This is Karolina, who is about 17 or 18 at this time. A lot of the plan of the book involves the slow ageing of the characters. So in this intro, Karolina goes from 1 to about 25, and the drawings in every panel have to get her at that age. The time that she (and Wolf, the other protagonist) age in this intro is about the same as will happen in the full book. So even thought the period of growth is very different, it prepares me for the more subtle process to come.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-6.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve now arrived at the final outline. Karolina is carrying a bit of baby fat, but she’s very much physically mature, and the line reflects that.&lt;/p&gt;
+
+&lt;p&gt;In the next image, all the previous layers are hidden, and a colour filled area is laid in behind the lines, on a separate layer. This will provide her the ability to knock out linework behind her, and simplify the drawing as a whole – these colour fills provide clean lines where one figure passes in front of another, or the background.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-8.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-9.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, I use an eraser to cut out the colour fill area to exactly match the outline of the figure. This is a manual process, because Concepts doesn’t have a tool to fill with. But that’s actually fine for me. I love Concepts because it has the simplicity and a lot of the subtlety of physical drawing materials, without getting silly about mimicry of natural media. So the cutting out process feels old school – I’ve spent so many hours doing it…&lt;/p&gt;
+
+&lt;p&gt;You can make out the white cut out around the figure. Cutting out has to happen starting at an edge, which is why there’s a little tail leading in to her, starting at the bottom. Now I can delete the outside colour, and we have a nicely filled figure. The colour doesn’t matter, by the way, that can change, but fleshtones are hard to see against the background of the app, so I’ll often use something darker and change it.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-10.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;With the figure filled, I’ll start to focus on details. In this stage, I don’t include faces. I do sometimes add a few features, and often an ear roughed in, which can clarify where generally the figure is looking. That information, I’ve learned, provides a major indicator of how the scene is to be read – eyelines and attention define who the character is, and what they are doing, and feeling.&lt;/p&gt;
+
+&lt;p&gt;Instead, in this phase, hands are the detail area. I have a theory that hands, which are notoriously time-consuming and hard to draw compared to most other things, are at the same time incredibly important in reading the expression and mood of a character. Are the fists clenched or are they relaxed? Are they gripping the arm, or caressing it, of the adjacent character? Focusing exclusively on body language and hand expression, without the face, forces me to try to be more expressive using only those tools.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-11.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-12.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the start of the hand process, and you can see that it’s pretty wretched. The hand looks all wrong! But one reason is that the thumb, which is hidden for the most part from this angle, is drawn in, so I can be precise about to what degree the end of the thumb would be visible. There’s nothing precious about this stage – the drawing is a form of working out, and of thinking, not really focused on pure depiction just yet.&lt;/p&gt;
+
+&lt;p&gt;I should also say that the hand drawing being done in this and the previous panel is being done in another layer, above the body linework, and the fill. I can fade the linework down, but draw the hands at full opacity, so I can distinguish easily between the new work and what’s there. Of course, this is all pretty standard vellum-tracing techniques that come from old illustrator techniques. What I hope gets across here is that where that allows successive approximations, it lowers the pressure on any given thing you’re working on, letting you stay loose and experimental.&lt;/p&gt;
+
+&lt;p&gt;My rule of thumb (no pun intended) is that the new drawing doesn’t have to be good, it just has to be better than the last version. When I get there, just as with body drawing, delete the previous layer, and start using the last version as reference for the next. That way, things can improve and the risk and the looseness stay manageable. Seeing what’s bad about your last version makes it easier to make the next one better.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-13.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;At this point, I’m pretty happy with the hand I’ve got, so I pull back to check its size relative to the figure. Digital drawing, where zooming in can be almost limitless, induces a loss of sense of scale. So sometimes something can be well-drawn, but out of proportion to the things it relates to. And sometimes, inducing a degree of disproportion can draw the reader’s attention. So in this stage, I’ve selected the hand in its now complete form, and slightly scaled in up. At the same time, positioning the hand effectively adjusts the arm length, which is also important.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cl&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-14.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-15.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The same process happens for the other hand, and now we have the two primary expressive details of the figure complete. Pulling back, I can resize and reposition this hand as well, to match an accord with the first one.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cl&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-16.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-17.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The figure’s left hand changes the profile of the silhouette, so adjustments are made to the fill layer, so that it extends to the hand.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-19.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;md-img-small cr&quot;&gt;
+&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/banishment/figure-drawing-20.png&quot; alt=&quot;rough figure&quot; /&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;I can now drop the figure back into the original drawing. This is a valuable check on whether, in the course of drawing and redrawing, I’ve drifted from the original way that the figure fit into the scene. Feet, when they’re visible, are important here. In general, perspective is reasonably forgiving if I haven’t gone too far from the original pose. In the first image, the figure is overlayed on the original rough that we started this post with. That gives me a reference for sizing the figure; the process of refining tends to shrink the figure, so sometimes a bit of upscaling is needed, before deleting the original layer of rough drawing, seen at right.&lt;/p&gt;
+
+&lt;p&gt;Phew! That brings us to about halfway through the process for this figure, and I’ll complete it in the &lt;a href=&quot;../panel-anatomy.2&quot;&gt;next post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Oct 2020 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/panel-anatomy.1/</link>
+        <guid isPermaLink="true">http://localhost:4000/panel-anatomy.1/</guid>
+        
+        <category>Process</category>
+        
+        <category>Panels</category>
+        
+        
+        <category>Launch</category>
+        
+        <category>Panels</category>
+        
+        <category>Details</category>
+        
+      </item>
+    
+  </channel>
+</rss>
