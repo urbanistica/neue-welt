@@ -5,8 +5,8 @@
     <description>This is Neue Welt, a graphic novel</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Oct 2020 17:27:32 +0700</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2020 17:27:32 +0700</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2020 08:33:32 +0700</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2020 08:33:32 +0700</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -292,6 +292,37 @@
         <category>Panels</category>
         
         <category>Details</category>
+        
+      </item>
+    
+      <item>
+        <title>Next Stages: Markups (1)</title>
+        <description>&lt;p&gt;Now begins the markup task for phase one. Each spread will be gone over, to identify what work needs to be done to complete the next substage.&lt;/p&gt;
+
+&lt;p&gt;The goal is really to prep the panels by taking them through the complete drawing stage. That lets me move on to the other things that will be done: clothes, hair, and faces.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://neue-welt-images.s3.amazonaws.com/posts/Wolf_p2.png&quot; alt=&quot;wolf's birth&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In panel 2, a previous version, based on this composition, he mother raises her head. I decided to add a pillow, but forgot to include it. So that has to go in.&lt;/p&gt;
+
+&lt;p&gt;In the third panel, a family member pointed out that the reading order would be better if the captions were reversed. An easy change, and one that will improve that transition a lot.&lt;/p&gt;
+
+&lt;p&gt;In the last panel, I omitted to include the line work that shows the seats inside the back of the car. I gotta do that in Concepts, which is the best drawing tool for this project.&lt;/p&gt;
+
+&lt;p&gt;As these, and other changes are completed, I’ll upload the corrected versions to the storyline at the head of the page, under the video.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Oct 2020 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/Markup-Page-One/</link>
+        <guid isPermaLink="true">http://localhost:4000/Markup-Page-One/</guid>
+        
+        <category>Process</category>
+        
+        <category>Panels</category>
+        
+        
+        <category>Panels</category>
+        
+        <category>Progress</category>
         
       </item>
     
