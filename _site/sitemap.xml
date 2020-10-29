@@ -5,6 +5,10 @@
 <lastmod>2020-10-09T00:00:00+07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/Markup-Page-Two/</loc>
+<lastmod>2020-10-09T00:00:00+07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/panel-anatomy.1/</loc>
 <lastmod>2020-10-10T00:00:00+07:00</lastmod>
 </url>
@@ -27,6 +31,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/intro</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tags</loc>

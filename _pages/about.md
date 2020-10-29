@@ -7,9 +7,9 @@ image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-**Neue Welt** (which is how my graphic novel normally gets referred to,) is the story of two people, Wolf Scheier, and Karolina Stott. They form an odd couple who navigate an era that seems to be the 1930's and 1940's. 
+**Neue Welt** (which is how my graphic novel normally gets referred to,) is the story of two people, Wolf Scheier, and Karolina Stott. They form an odd couple who navigate an era that seems to be the 1930's and 1940's. This page talks about the overall project; if [you want to read about the intro, that's here.]({{site.baseurl}}/intro)
 
-But *seems* is the operative word here. Neue Welt is an *alterate* history, where just about everything we know starts off being true, but tweaks are introduced as the story progresses.
+But *seems* is the operative word here. Neue Welt is an *alternate* history, where just about everything we know starts off being true, but tweaks are introduced as the story progresses.
 
 I don't want to be someone who gives away the plot, and I won't, but there are spoilers for what is planned in this page, stuff I'm OK with telling people. But if you aren't interested in knowing anything about what **Neue Welt** will be, better stop reading now.
 
@@ -29,7 +29,7 @@ This project is not a revisionism. It doesn't deny anything that *did* happen. I
 
 An example that is close to home, for me. My mother, who was herself an illustrator, grew up in the London of the 1930's and 40's. Never evacuated, she lived with her family throughout the war, in Central West London, not far from Buckingham Palace, in the districts where palace servants lived. 
 
-She sat on the couch, with the rest of my family in July 1969, when men first landed on the moon. She understood the extraordinary moment it was, probably more than 14 year old me. But it was shadowed for her by the fact that the American space program had been so profoundly influenced by Werner von Braun, the Nazi who developed the V2 rocket. It was this weapon that truly brought terror to her when she had been a girl of the same age as I was on that hot July night. The air raids, the dogfights over London had been fearful. But the V2 was something else.
+She sat on the couch, with the rest of my family in July 1969, when men first landed on the moon. She understood the extraordinary moment it was, probably more than 11 year old me. But it was shadowed for her by the fact that the American space program had been so profoundly influenced by Werner von Braun, the Nazi who developed the V2 rocket. It was this weapon that truly brought terror to her when she had been a girl of the same age as I was on that hot July night. The air raids, the dogfights over London had been fearful. But the V2 was something else.
 
 And, she knew, von Braun had *gotten away with it*. He was welcomed like a hero, when 2 men bounced next to their ungainly LEM, for all the world to see. His rockets were built by slaves, in underground tunnels, and fired, without even a pretence that exact aiming was possible, into the heart of populations. True technological terrorism by states had begun. And the US had embraced him.
 
@@ -41,6 +41,6 @@ In Neue Welt, the story is a slow permutation from the world we take as historic
 
 A novel is not a lecture. It's not a thesis. It's not an object lesson. It's not a moral tale, in itelf, though it contains its own morality. In **Neue Welt**, my two characters, and the child they raise together are the core of the story. Wildly different in temperament, both are, in some degree, drawn to each other, in the ways that opposites not only attract, but also reveal what is painfully the same between them. 
 
-Karolina – hurt but resourceful, angry but capable of overcoming her anger, immoral to the world, but containing her own profound sense of truth: Wolf, with his own pain, but also a belief in systems, aware that the world's impulse to reward can require flexibility and adaptation, but sometimes the victim of his own rigiditiy; morally certain, but with his own sense of truth untested. Each finds in the other a way to cope, and a tormentor, as they live through extraordinary times.
+Karolina – hurt but resourceful, angry but capable of overcoming her anger, immoral to the world, but containing her own profound sense of truth: Wolf, with his own pain, but also a belief in systems, aware that the world's impulse to reward can require flexibility and adaptation, but sometimes the victim of his own rigiditiy; morally certain, but with his own sense of truth untested. Each finds in the other a lover, a way to cope, and a tormentor, as they live through extraordinary times.
 
 
